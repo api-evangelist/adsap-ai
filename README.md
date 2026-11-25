@@ -66,7 +66,7 @@
 
 Adsap provides a platform to launch and manage Meta (Facebook) and Google advertising campaigns at scale. Users can create bulk ads via a web dashboard or an AI copilot integrated with Claude, ChatGPT, or Perplexity, leveraging about 100 built‑in tools. All changes require user approval, ensuring control while automating repetitive tasks for e‑commerce brands and agencies.
 
-**Areas:** Advertising · Automation · AI · SaaS · Marketing
+**Areas:** Advertising · Automation · Artificial Intelligence · Software-as-a-Service · Marketing
 
 ## Adsap on APIs.io
 
@@ -84,26 +84,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adsap Ai Authentication](https://apis.io/security/adsap-ai/adsap-ai-authentication/)
-- [Adsap Ai Domain Security](https://apis.io/security/adsap-ai/adsap-ai-domain-security/)
+- [Adsap Authentication](https://apis.io/security/adsap-ai/adsap-ai-authentication/)
+- [Adsap Domain Security](https://apis.io/security/adsap-ai/adsap-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adsap Ai Scopes](https://apis.io/scopes/adsap-ai/adsap-ai-scopes/)
+- [Adsap Scopes](https://apis.io/scopes/adsap-ai/adsap-ai-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adsap Ai Plans Pricing](https://apis.io/plans/adsap-ai/adsap-ai-plans-pricing/)
+- [Adsap Plans Pricing](https://apis.io/plans/adsap-ai/adsap-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adsap Ai Rate Limits](https://apis.io/rate-limits/adsap-ai/adsap-ai-rate-limits/)
+- [Adsap Rate Limits](https://apis.io/rate-limits/adsap-ai/adsap-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -121,25 +121,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 29.7** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 32.3** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 75.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 63.7 |
+| Access clarity | 68.1 |
 
-**Agent readiness 19.3** — agent-aware
+**Agent readiness 13.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -147,7 +147,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -158,6 +158,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
 
